@@ -61,3 +61,4 @@ Panda
 Sloth
 Doggo
 Cats are Love
+Lion
